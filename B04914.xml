@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular account of the taking of Buda on the second of September, by the imperial and auxiliary forces, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04914</idno><idno type="EEBO-CITATION">52614818</idno>
+  <idno type="VID">176001</idno>
+  <idno type="EEBO-PROQUEST">2240879191</idno>
+  
+            <idno type="STC">Wing P588</idno>
+            <idno type="STC">ESTC R181481</idno>
+            <idno type="OCLC">52614818</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176001)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2758:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular account of the taking of Buda on the second of September, by the imperial and auxiliary forces, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Buda (Hungary) --  History --  Siege, 1686 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:176001:1"/>
+            <head>A Particular ACCOUNT Of the Taking of BUDA On the Second of <hi>September,</hi> by the Impe<g ref="char:EOLhyphen"/>rial and Auxiliary Forces, <hi>&amp;c.</hi>
+            </head>
+            <p>THe first Instant the Count de <hi>Scherffenberg</hi> arrived in the Imperial camp with the rest of the Forces that had served under his Command in Transilvania; They were in all 10000 Men, and 2000 of them mounted the same day the ad<g ref="char:EOLhyphen"/>vanced Posts at the <hi>Duke</hi> of <hi>Lorrain</hi>'s Attack. The second a Council of War was held, where it was unanimously resolved to make that day a General As<g ref="char:EOLhyphen"/>sault upon the Town; for which all things were accordingly disposed; We continued from all our Batterles to play upon the Breaches, and the Flanks of the Enemies Retrenchments with Chain Shot; at the same time we threw a great many Bombs, and Carcasses into the Town, and to amuse the Turks, our Troops made several Movements, as if we had design<g ref="char:EOLhyphen"/>ed to fight the Grand Visier, and part of those that guarded our Works toward the Town were in the Enemies sight drawn from thence towards our Lines, while double their number were detached by covered ways to supply their places. About three in the after<g ref="char:EOLhyphen"/>noon the Palisadoes that secured the Breaches being beaten down by our Cannon, 3000 Men, divided in several Detatchments, and supported by 3000 more, made the Assault at the Duke of <hi>Lorrain's</hi> Attack, commanded by the Great Master of the Teutonick Order, and the Prince <hi>de Croy</hi> Lieutenant-General of Foot; at the <hi>Bavarian</hi> and <hi>Brandenburgh</hi> At<g ref="char:EOLhyphen"/>tacks 1500 were appointed at each to begin the Assault, seconded by a reserve of the same Number; and 2000 Men were ordered to make two false Attacks. The Detachments, the Signal being given advaneed and amounted the Breaches with as great Order as Cour<g ref="char:EOLhyphen"/>age; The Besieged defended them with the same Resolution they had made in former oc<g ref="char:EOLhyphen"/>casions, and with their Fougades, Bombes, Stones, Bags, filled with Powder, Pikes and other Arms, forced our Men at the Duke of <hi>Lorrain's</hi> Attack twice to retire; but these being supported by the presence of the Duke, who led them on himself to the foot of the Breach going on the third time entered the Town with the slaughter of 800 Janisaries that defended the Breach on that side, the Visier Bassa was there during the whole action to encourage his Men, and gave great proofs of his Bravery, till having received several wounds, he fell among the slain. The Brandenburgers entered the Town almost at the same time, and the Bavarians soon after; so that forcing the Enemy from their several Pos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Retrenchments, the Assailiants advanced to the Market-place, and in an hours time were absolute Masters of the Place. The Turks after our Men were in the Town, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g a Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and by the means of a Train they had layn for that purpose, set several Houses on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, which continued till the next Morning, and consumed abundance of rich Houshold goods and Merchandise; However, the Soldiers found a great deal of plunder of Plate, Jewels, Money, <hi>&amp;c.</hi> insomuch, that many of them got 2 or 3000 Ducats a Man. It's reckoned that in the Asiault, and first sury of the Soldiers, after they were Masters of the Town about 2500 Turks were slain with their Arms in their hands, and about 1500 retired into a Redoubt on the side of the Castle, where they put up a white Flag, and beg<g ref="char:EOLhyphen"/>ged
+<pb n="2" facs="tcp:176001:2"/> for Quartors, which after holding of a Council of War, was in confideration of the app<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oach<g ref="char:EOLhyphen"/>ing night, and the confusion occasioned by the Fire in the Town, granted them. The Vice-Bassa, who was wounded, and the Aga of the Janisaries, with several other Officers of Note were of this number; the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st is the Elector of <hi>Bevaria's</hi> Prisoner, &amp; the Aga the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain's.</hi> A great many Women and Children, and 4 or 500 Jews were likewise saved; These are commanded to bury the Turks that were slain, and to cleanse the streets. We found in the place above 400 pleces of Cannon and Mortars (of the first 170 are fit for Service, but most of them dismounted) with a great quantity of Arms, Cannon bullets, Bombs, Grenadoes, and Carcasses, and other sorts of Ammunition. Of the Christians there were not killed in the Assault above 100 at the Duke of <hi>Lorrain</hi>'s Attack, among which were the Marquis <hi>Spinola,</hi> and the Lieutenant-Colonel of the Regiment of <hi>Aspremont;</hi> but at the Bavarian Attack, the lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s was greater, three hundred being killed there, and about four hundred wounded. The Grand Visier, who was encamped within a Mile of <hi>Buda,</hi> and had possessed himself of a Hill, from whence he pretended, to inconvenience us with his Cannon, understanding the Town was taken, set fire to his Camp, and retired towards <hi>Al<g ref="char:EOLhyphen"/>ba Regalis,</hi> upon which the Duke of <hi>Lorrain</hi> sent out 6000 <hi>Hungarians,</hi> commanded by the Count de Badiani, and 8000 Imperial Horse, under the Orders of General Caprara, to attack their Rear. And it was resolved in a Council of War, that 10 or 12000 Foot should pass down the Danube with several pseces of Cannon, towards the Bridge of Es<g ref="char:EOLhyphen"/>secke, and that Orders should be sent to the Forces of Croatia, to join them, in order to cut off the Enemies retreat, while the rest of the Imperial and Auxiliary Forces (except 6000 which are put as a Garrison unto <hi>Buda,</hi> under the Command of Major-General <hi>Becke)</hi> should March after the Grand Visier.</p>
+            <p>Hague, <hi>Sept.</hi> 20. An Envoy who arrived here some days ago from the Emperor of Mo<g ref="char:EOLhyphen"/>rocco, had yesterday Audience of the States-General; his business is to make a Com<g ref="char:EOLhyphen"/>plement of Friendship from his Master, and to offer an Exchange of Slaves for so many Guns. The Letters from Hamourgh give great hopes of an Accommodation. Those from Vienna of the eighth Instant▪ say, That above 3000 Turks had been killed at the taking of Buda; That the Visier Bassa was of that number, who was slain after having received di<g ref="char:EOLhyphen"/>vers Wounds upon the Breach; that the Vice Bassa, the Aga of the Janisaries, the Muf<g ref="char:EOLhyphen"/>ti, and several Officers of Note, and about 1500 Soldiers, and 500 Jews were Prisoners. That there was in the Town at the beginning of the Slege, a Garrison of 10000 Men, besides the Inhabitants that bore Arms. That the Christians had found a great deal of rich Plun<g ref="char:EOLhyphen"/>der, that many of the common Soldiers got 2000 Ducats, and a Servant of the Duke de Croy, is said to have made a Booty of 9000 Ducats. That the Grand Visier so soon as he knew the Town was taken, retired towards Alba Regalis, and leaving a sufficient Garrison in that place, continued his retreat towards the Bridge of Essecke; That the Duke of Lorrain had sent out great Detachments to attack his Rear, and intended to march after him with the whole Army.</p>
+            <p>Brussels, <hi>Sept.</hi> 17. We have had here for ten days together, such publick Rejoicing and Feast<g ref="char:EOLhyphen"/>ing, that the like hath not been known. On Sunday night the Prince de la Tour, Treated our Governor-General, and the whole Court very splendidly, and afterwards entertained them with very fine Fire-works: And yesterday his Excellency gave a very magnificent Dinner to all the Grandees, Ministers, Generals and Counsellors of State. Our last Let<g ref="char:EOLhyphen"/>ters from Vienna informed us, that the Duke of Lorrain had sent a Detachment of 8000 Horse, under the Command of General Caprara to pursue the Grand Visier, who retired with all the diligence he could towards the Bridge of Essecke, and that his Highness was preparing to follow with the whole Army. These Letters say, That the most considerable Jews of Buda had, during the Assault, gotten into Boats, hoping to escape with their Rich<g ref="char:EOLhyphen"/>es down the Danube, but that they were discovered, and taken by the Hungarians, who got a Booty of unestee mable value.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed by the <hi>Heir</hi> of <hi>Andrew Anderson,</hi> Printer to His Most Sacred <hi>MAJESTY,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
